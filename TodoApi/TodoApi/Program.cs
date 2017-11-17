@@ -10,6 +10,10 @@ using Microsoft.Extensions.Logging;
 
 namespace TodoApi
 {
+    /// <summary>
+    /// 完全参考：
+    /// http://www.cnblogs.com/netcoder/p/7801447.html
+    /// </summary>
     public class Program
     {
         public static void Main(string[] args)
